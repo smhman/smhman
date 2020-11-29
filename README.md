@@ -1,4 +1,6 @@
 ### Information About Me
+## Contact me on Discord
+`free#5745`
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nordicdev&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
