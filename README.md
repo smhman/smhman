@@ -1,6 +1,6 @@
 # About me
-
-I program in:
-![C](99f887833c475448723d3c9ac16c179b.png)
+Hey! I am free(style), known as xgreen too. <br/>
+I program in C/C++ and like Gentoo (a GNU/Linux distribution). <br/>
+Contact me on Discord: free#5745.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=smhman&count_private=true&show_icons=true&theme=onedark)
