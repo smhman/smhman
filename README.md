@@ -1,5 +1,5 @@
 # About me
-Hey! I am free(style), known as xgreen too. <br/>
+Hey! I am free <br/>
 I program in C/C++ and like Gentoo (a GNU/Linux distribution). <br/>
 Contact me on Discord: free#5745.
 
